@@ -18,6 +18,11 @@ En la parte de servicios estan la clase de conexion con la API "ConnectionServic
 Una vez obtneido el resultado el metodo convert de la clase "ConvertCurrencyService" resaliza la operacion de conversion de la moneda seleccionada y lo retorna como un numero.
 </p>
   
-
+<h3>Tecnologias usadas</h3>
+<ul>
+  <li>Java</li>
+  <li>Libreria Gson</li>
+  <li>Postman</li>
+</ul>
 
 
